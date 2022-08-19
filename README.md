@@ -1,5 +1,7 @@
 # Differentiable-rendering-with-JAX
 
+## Optimizating vertex positions
+
 | Original and target image |  Optimization |  Loss history |
 :-------------------------:|:-------------------------:|:-------------------------:
-![](fig\triangle_mesh.png)  |  ![](fig\triangle-gaussian-mesh.gif)  |  ![](fig\triangle_mesh_loss.png_)
+![alt-text](fig/triangle_mesh/triangle_mesh.png)  |  ![alt-text](fig/triangle_mesh/triangle-gaussian-mesh.gif)  |  ![alt-text](fig/triangle_mesh/triangle_mesh_loss.png)
