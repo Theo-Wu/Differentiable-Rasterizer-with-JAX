@@ -13,7 +13,14 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![alt-text](fig/cube_camera/cube_camera.png)  |  ![alt-text](fig/cube_camera/cube-gaussian-1e-3.gif)  |  ![alt-text](fig/cube_camera/cube_camera_loss.png)
 
-## Optimize lighting
+## Optimize material
+
 | Original and target image |  Optimization |  Loss history |
 :-------------------------:|:-------------------------:|:-------------------------:
-![alt-text](fig/optimize_light/optimize_lighting.png)  |  ![alt-text](fig/optimize_light/optimize_lighting.gif)  |  ![alt-text](fig/optimize_light/optimize_lighting_loss.png)
+![alt-text](fig/optimize_material/optimize_material.png)  |  ![alt-text](fig/optimize_material/optimize_material.gif)  |  ![alt-text](fig/optimize_material/optimize_material_loss.png)
+
+## Optimize lighting
+
+| Original and target image |  Optimization |  Loss history |
+:-------------------------:|:-------------------------:|:-------------------------:
+![alt-text](fig/optimize_lighting/optimize_lighting.png)  |  ![alt-text](fig/optimize_lighting/optimize_lighting.gif)  |  ![alt-text](fig/optimize_lighting/optimize_lighting_loss.png)
