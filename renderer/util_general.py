@@ -67,9 +67,9 @@ def getUV(points,polygon_position):
     w0 = edge(points,polygon_position[:,1],polygon_position[:,2])/area[:,None,None]
     w1 = edge(points,polygon_position[:,2],polygon_position[:,0])/area[:,None,None]
     w2 = edge(points,polygon_position[:,0],polygon_position[:,1])/area[:,None,None]
-    e0 = w0.at[(w0<0.) | (w1<0.) | (w2<0.)].set(0.)
-    e1 = w1.at[(w0<0.) | (w1<0.) | (w2<0.)].set(0.)
-    e2 = w2.at[(w0<0.) | (w1<0.) | (w2<0.)].set(0.)
+    e0 = w0.at[(w0<0.) | (w1<0.) | (w2<0.)].set(1./3.)
+    e1 = w1.at[(w0<0.) | (w1<0.) | (w2<0.)].set(1./3.)
+    e2 = w2.at[(w0<0.) | (w1<0.) | (w2<0.)].set(1./3.)
     # e0 = jnp.where((w0<0.) | (w1<0.) | (w2<0.),0,w0)
     # e1 = jnp.where((w0<0.) | (w1<0.) | (w2<0.),0,w1)
     # e2 = jnp.where((w0<0.) | (w1<0.) | (w2<0.),0,w2)
