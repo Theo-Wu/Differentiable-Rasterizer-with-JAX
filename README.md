@@ -17,7 +17,7 @@
 
 | Original and target image |  Optimization |  Loss history |
 :-------------------------:|:-------------------------:|:-------------------------:
-![alt-text](fig/triangle_mesh/optimize_vertices_triangle.png)  |  ![alt-text](fig/triangle_mesh/optimize_vertices_triangle.gif)  |  ![alt-text](fig/triangle_mesh/optimize_vertices_triangle_loss.png)
+![alt-text](fig/triangle_mesh/optimize_vertices_triangle2.png)  |  ![alt-text](fig/triangle_mesh/optimize_vertices_triangle2.gif)  |  ![alt-text](fig/triangle_mesh/optimize_vertices_triangle_loss2.png)
 <!-- ![alt-text](fig/cube_mesh/cube_mesh.png)  |  ![alt-text](fig/cube_mesh/cube-gaussian-mesh.gif)  |  ![alt-text](fig/cube_mesh/cube_mesh_loss.png) -->
 
 ## Optimize camera position
