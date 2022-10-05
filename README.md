@@ -24,5 +24,5 @@
 
 | Original and target image |  Optimization |  Loss history |
 :-------------------------:|:-------------------------:|:-------------------------:
-![alt-text](fig/cube_camera/optimize_camera.png)  |  ![alt-text](fig/cube_camera/optimize_camera.gif)  |  ![alt-text](fig/cube_camera/optimize_camera_loss.png)
+![alt-text](fig/cube_camera/optimize_camera2.png)  |  ![alt-text](fig/cube_camera/optimize_camera2.gif)  |  ![alt-text](fig/cube_camera/optimize_camera_loss2.png)
 
