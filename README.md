@@ -1,4 +1,4 @@
-# Differentiable-rendering-with-JAX
+# Differentiable-Rasterizer-with-JAX
 
 ## Optimize material
 
