@@ -1,5 +1,7 @@
 # Differentiable-Rasterizer-with-JAX
 
+(A new and more efficient implementation is provided here https://github.com/Theo-Wu/MetaRas-Jax)
+
 ## Optimize material
 
 | Original and target image |  Optimization |  Loss history |
